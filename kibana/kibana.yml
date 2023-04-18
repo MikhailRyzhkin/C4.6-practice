@@ -49,7 +49,7 @@ elasticsearch.hosts: ["https://localhost:9200"]
 #elasticsearch.username: "kibana_system"
 #elasticsearch.password: "pass"
 elasticsearch.username: "kibana_system"
-elasticsearch.password: "8dSbvNO-y_I1TcRWTAEq"
+elasticsearch.password: "n7+qd3aoRoqzXTM08=It"
 
 # Kibana can also authenticate to Elasticsearch via "service account tokens".
 # Service account tokens are Bearer style tokens that replace the traditional username/password based configuration.
